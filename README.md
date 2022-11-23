@@ -25,7 +25,11 @@ Mac (brew): brew install git
 ## clonar o projeto
 
 ## commits
-
+informaçoes de alteraçao 
+- após testado todo seu código
+- git add .
+- git commit -m "comentarioS"
+- git push para enviar alteraçoes ao repositorioS
 informaçao de alteração
 após testado todo seu código
 
