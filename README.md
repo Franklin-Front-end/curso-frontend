@@ -1,4 +1,6 @@
 # curso-frontend
+# site em desenvolvimento!
+
 #GIT 
 ## conceitos de versionamento
 Historico
